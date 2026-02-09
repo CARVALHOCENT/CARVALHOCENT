@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi there, I'm Salvador Carvalho!
 
-<!--
-**CARVALHOCENT/CARVALHOCENT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Electrical and Computer Engineering** undergraduate student at **Instituto Superior Técnico (IST)** 🇵🇹.
 
-Here are some ideas to get you started:
+### 🔭 About Me
+* ⚡ Fascinated by how things work — and how to make them better.
+* 🤖 **Robotics & Engineering:** Passionate about Robotics, IoT home automation, and Homelabbing — connecting the physical world to the digital one.
+* 🧱 **LEGO & 3D Design:** Whether physical or digital, I enjoy designing and assembling intricate structures from scratch.
+* 🐧 Arch Linux User & Hyprland enthusiast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Passions
+
+
+![](https://img.shields.io/badge/University-Instituto_Superior_Técnico-blue?style=for-the-badge&logo=universityofporto&logoColor=white) 
+
+![](https://img.shields.io/badge/F1-Formula_1_Enthusiast-red?style=for-the-badge&logo=formula1&logoColor=white)
+![](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![](https://img.shields.io/badge/Lego-Brick_Master-d11919?style=for-the-badge&logo=lego&logoColor=white)
+
+---
