@@ -18,4 +18,4 @@ I'm an **Electrical and Computer Engineering** undergraduate student at **Instit
 
 [![Email](https://img.shields.io/badge/Email-salvadorcarvalho2005@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:salvadorcarvalho2005@gmail.com)<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Salvador_Carvalho-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/salvadordesousacarvalho)
-[![View My CV](https://img.shields.io/badge/Download-My%20CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/TEU_USER/TEU_REPO/raw/main/main.pdf)
+[![View My CV](https://img.shields.io/badge/Download-My%20CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/CARVALHOCENT/My-CV/releases/latest/download/main.pdf)
